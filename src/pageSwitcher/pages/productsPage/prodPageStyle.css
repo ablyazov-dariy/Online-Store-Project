@@ -1,0 +1,23 @@
+:host {
+    display: flex;
+    gap: 1rem
+}
+
+.sticky {
+    height: 1px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1rem;
+}
+
+.content {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+    grid-gap: 1rem;
+}
+
+ul {
+    list-style: none;
+}

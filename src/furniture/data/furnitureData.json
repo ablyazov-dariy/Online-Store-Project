@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Billy Bookcase",
+    "company": "IKEA",
+    "description": "A simple and stylish bookcase with adjustable shelves.",
+    "price": 79.99,
+    "img": "https://media.istockphoto.com/id/1149521187/de/foto/vollm%C3%B6bliertes-wohnzimmer.jpg?s=612x612&w=0&k=20&c=PGl5tF4DzCvn6DvrvqNZOhWnX5_olZhh2bH-PgBloXI="
+  },
+  {
+    "id": 2,
+    "name": "Kallax Shelf Unit",
+    "company": "IKEA",
+    "description": "A versatile and customizable shelving unit.",
+    "price": 69.99,
+    "img": "https://media.istockphoto.com/id/1441985801/de/foto/biertisch.jpg?s=612x612&w=0&k=20&c=tIqjdK1enzcj37Vz_kSyn-q7A2M7_J0BPLnqY6XIKTk="
+  },
+  {
+    "id": 3,
+    "name": "LACK Coffee Table",
+    "company": "IKEA",
+    "description": "A minimalist and affordable coffee table.",
+    "price": 29.99,
+    "img": "https://media.istockphoto.com/id/1371157643/de/foto/bunte-m%C3%B6belstoffmuster-auf-dem-heimischen-sofa.jpg?s=612x612&w=0&k=20&c=dV73D9C9H1dY5SJSRPzFJ12aYlCEdUJEYjq5-PuVxSE="
+  },
+  {
+    "id": 4,
+    "name": "Sofia Sofa",
+    "company": "Marcos",
+    "description": "A comfortable and stylish sofa for any living room.",
+    "price": 599.99,
+    "img": "https://media.istockphoto.com/id/1322052316/de/foto/mangel-an-raum-innenarchitektur-fehler.jpg?s=612x612&w=0&k=20&c=IHJkuSMtSsAbHqxLBsALL4ZcStFgObKOogvU3Ok0oXs="
+  },
+  {
+    "id": 5,
+    "name": "Caressa Dining Table",
+    "company": "Caressa",
+    "description": "A beautiful and sturdy dining table made with high-quality materials.",
+    "price": 899.99,
+    "img": "https://media.istockphoto.com/id/1357529933/de/foto/digital-generiertes-bild-eines-komplett-eingerichteten-wohnzimmers.jpg?s=612x612&w=0&k=20&c=YYlwDuDscK_KlvAeMgXO2rRsPCTuer7tF9pi2y5BgsM="
+  },
+  {
+    "id": 6,
+    "name": "Liddy Desk",
+    "company": "Liddy",
+    "description": "A sleek and functional desk for any home office.",
+    "price": 249.99,
+    "img": "https://rxjs.dev/assets/images/logos/logo.png"
+  },
+  {
+    "id": 7,
+    "name": "Ektorp Loveseat",
+    "company": "IKEA",
+    "description": "A cozy and comfortable loveseat perfect for small spaces.",
+    "price": 399.99,
+    "img": "https://media.istockphoto.com/id/1325867076/de/foto/modernes-interieur-des-wohnzimmers-mit-design-modular-beige-sofa-und-zubeh%C3%B6r-vorlage.jpg?s=612x612&w=0&k=20&c=p9HHKUJ8jpXkdAHeSiR7DoEVvR0AONclWNgLSXjwRGM="
+  },
+  {
+    "id": 8,
+    "name": "Brimnes Wardrobe",
+    "company": "IKEA",
+    "description": "A stylish and spacious wardrobe with sliding doors.",
+    "price": 199.99,
+    "img": "https://media.istockphoto.com/id/1357529222/de/foto/3d-wiedergabe-eines-essbereichs-in-moderner-k%C3%BCche.jpg?s=612x612&w=0&k=20&c=BsiK8OLmdAwZt2EGjmCJkX9dhtKoRZ0jVeDxCHVtC5A="
+  },
+  {
+    "id": 9,
+    "name": "Hemnes Bed Frame",
+    "company": "IKEA",
+    "description": "A sturdy and elegant bed frame made from sustainable materials.",
+    "price": 299.99,
+    "img": "https://media.istockphoto.com/id/1415799772/de/foto/home-interior-mit-vintage-m%C3%B6beln.jpg?s=612x612&w=0&k=20&c=JtS6QRhmcsdCItnsEgqf3QJIsXy0cOMKV0BG3eTRzb0="
+  },
+  {
+    "id": 10,
+    "name": "Kivik Sectional",
+    "company": "IKEA",
+    "description": "A modular and customizable sectional sofa with a chaise lounge.",
+    "price": 899.99,
+    "img": "https://media.istockphoto.com/id/943910360/de/foto/plakate-in-gem%C3%BCtliche-wohnung-innen.jpg?s=612x612&w=0&k=20&c=N1K87ZMI0ejNJI0qCE0YAZawuQnugDKtgZTlVgtZ27w="
+  },
+  {
+    "id": 11,
+    "name": "Poäng Armchair",
+    "company": "IKEA",
+    "description": "A classic and comfortable armchair with a timeless design.",
+    "price": 129.99,
+    "img": "https://media.istockphoto.com/id/1386471399/de/foto/modernes-wohnzimmer-interieur-3d-rendering.jpg?s=612x612&w=0&k=20&c=B5FcoFoGFw3cY71pEEO3TQ-3TGD8N8jEC5Sczz09P2o="
+  },
+  {
+    "id": 12,
+    "name": "Havsta TV Stand",
+    "company": "IKEA",
+    "description": "A stylish and practical TV stand with ample storage space.",
+    "price": 229.99,
+    "img": "https://media.istockphoto.com/id/928084758/de/foto/zwei-m%C3%A4nner-tragen-regal.jpg?s=612x612&w=0&k=20&c=QtxVLUjulQnyCRcY5R9jbtn6EhV9ijzNcA2t6fVNBIA="
+  },
+  {
+    "id": 13,
+    "name": "Modern Coffee Table",
+    "company": "IKEA",
+    "description": "This sleek coffee table will add a touch of modernity to your living room.",
+    "price": 89.99,
+    "img": "https://media.istockphoto.com/id/1266344041/de/foto/3d-rendering-von-rauen-randplanke-esstisch.jpg?s=612x612&w=0&k=20&c=B2eD9mKWpvkevjTNZ4Gr4UilYyHSFL0nI4DbhB9ONxg="
+  },
+  {
+    "id": 14,
+    "name": "Leather Sofa",
+    "company": "Caressa",
+    "description": "Relax in style on this luxurious leather sofa.",
+    "price": 799.99,
+    "img": "https://media.istockphoto.com/id/1268119940/de/foto/m%C3%B6belmontageprozess-verwenden-eines-schraubendrehers-w%C3%A4hrend-der-montage-tun-sie-es-selbst.jpg?s=612x612&w=0&k=20&c=Fqdxc3Omb3oA9ZNQFRcN2nvmMPAQVI-lj2VvjYI-KJE="
+  },
+  {
+    "id": 15,
+    "name": "Wooden Bed Frame",
+    "company": "Marcos",
+    "description": "Sleep soundly on this sturdy wooden bed frame.",
+    "price": 399.99,
+    "img": "https://media.istockphoto.com/id/1350859272/de/foto/luxusm%C3%B6bel.jpg?s=612x612&w=0&k=20&c=FE77SYoBluheeYHzObdj4YNrQ_lqoLXnXOzsN840nUI="
+  },{
+  "id": 16,
+  "name": "Velvet Armchair",
+  "company": "Liddy",
+  "description": "Add a touch of luxury to your home with this plush velvet armchair.",
+  "price": 299.99,
+  "img": "https://media.istockphoto.com/id/1362516442/de/foto/komposition-auf-einem-tablett-auf-einem-flohmarkt-aus-glasvasen-christbaumschmuck-und.jpg?s=612x612&w=0&k=20&c=DyH99Cdibgie8Dzhd-NfkWSPwwX_PSo_KFv6NZAG8S8="
+},
+  {
+    "id": 17,
+    "name": "Glass Dining Table",
+    "company": "IKEA",
+    "description": "Gather around this elegant glass dining table for a stylish mealtime experience.",
+    "price": 599.99,
+    "img": "https://media.istockphoto.com/id/1357529184/de/foto/3d-rendering-eines-zeitgen%C3%B6ssischen-wohnzimmerinterieurs.jpg?s=612x612&w=0&k=20&c=lkkUkW72NVNomjYpKc5MxVyAEbLfRgonJomE_mKv0kg="
+  },
+  {
+    "id": 18,
+    "name": "Chaise Lounge",
+    "company": "Caressa",
+    "description": "Relax and unwind on this comfortable chaise lounge.",
+    "price": 499.99,
+    "img": "https://media.istockphoto.com/id/1339422307/de/foto/kleine-dachgeschosswohnung-f%C3%BCr-eine-studentin-mit-schreibtisch-st%C3%BChlen-und-schlafsofa-wohn-und.jpg?s=612x612&w=0&k=20&c=7E8QOHHfM7xTzfkWYRs37ZQpafJfMMmz_UxnLJOiyiE="
+  },
+  {
+    "id": 19,
+    "name": "Wardrobe",
+    "company": "Marcos",
+    "description": "Keep your clothes organized with this spacious wardrobe.",
+    "price": 699.99,
+    "img": "https://media.istockphoto.com/id/1411285924/de/foto/pr%C3%A4zise-pinselarbeit-von-female-painting-bench.jpg?s=612x612&w=0&k=20&c=u9hNeSxpkNUqpe7iZCaZbX4bH5GURa0RPTvEJdvgZ3Q="
+  },
+  {
+    "id": 20,
+    "name": "Mid-Century Modern Desk",
+    "company": "Liddy",
+    "description": "Get your work done in style with this retro-inspired desk.",
+    "price": 249.99,
+    "img": "https://media.istockphoto.com/id/1329433253/de/foto/wohnzimmer-interieur-haben-schrank-f%C3%BCr-tv-und-ledersessel-in-zementraum-mit-betonwand.jpg?s=612x612&w=0&k=20&c=2ZEr5KTduLCVt9DkQthtuO75EQcN8voJ0DWX-wI2yfk="
+  },
+  {
+    "id": 21,
+    "name": "Tufted Ottoman",
+    "company": "IKEA",
+    "description": "Add a pop of color and extra seating with this chic tufted ottoman.",
+    "price": 129.99,
+    "img": "https://media.istockphoto.com/id/1357529193/de/foto/3d-rendering-eines-gem%C3%BCtlichen-wohnzimmers.jpg?s=612x612&w=0&k=20&c=xynWRnAeoQ9abnUWmwKD_taVQqIlGYw396TqBJ_vRQA="
+  }
+]
